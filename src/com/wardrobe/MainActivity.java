@@ -26,7 +26,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 
 /**
- * 入口
+ * 主程序
  * 
  * @author Jonathan Guan
  *
